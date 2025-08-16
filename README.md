@@ -1,16 +1,13 @@
-# blooming_mood
+# Blooming Mood 🌸 🐸
+*“Your mind is a garden, your thoughts are the seeds...”*
 
-A new Flutter project.
+Blooming Mood is more than a notes app, it's a virtual safe space where you can vent, express your emotions freely and 
+receive instant advice or encouragement, while taking care of a beautiful garden.
 
-## Getting Started
+## ✨ Inspiration
+The inspiration for this project comes from my personal experience with Cognitive Behavioral Therapy (CBT) and the importance of tracking my mood throughout the week.
+I wanted to create a tool that would help me recognize emotional patterns and reflect on them, but in a way that didn’t feel like a chore.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🌱 Shipaton 2025 #BuildInPublic
+I'm building this project to participate in RevenueCat's mobile hackathon, [*Shipaton*](https://revenuecat-shipaton-2025.devpost.com/).
+The development process of this project will be shared on my YouTube [channel](https://www.youtube.com/@GabrielaGuarini) as part of the "Build in Public" challenge.
