@@ -10,4 +10,3 @@ I wanted to create a tool that would help me recognize emotional patterns and re
 
 ## 🌱 Shipaton 2025 #BuildInPublic
 I'm building this project to participate in RevenueCat's mobile hackathon, [*Shipaton*](https://revenuecat-shipaton-2025.devpost.com/).
-The development process of this project will be shared on my YouTube [channel](https://www.youtube.com/@GabrielaGuarini) as part of the "Build in Public" challenge.
